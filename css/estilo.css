@@ -1,0 +1,50 @@
+h3 {  
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    font-style: italic;
+}
+body{
+    background-color: #c6c6c691;
+
+}
+.imagen {
+    height: 35vh;
+    width: 35vh;
+    border-radius: 50%;
+    margin: auto ;
+    margin-left: 83vh;
+    margin-top: 18vh;
+    box-shadow: 0px 0px 20px #999;
+}
+.img-10{
+    margin-left: 330vh;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+.img-8{
+    position: fixed;
+    top:0;
+    margin-left: -8px;
+}
+.linha-2{
+    margin-top: -16px;
+    width: 330px;
+    height: 1px;
+    background-color: rgb(32, 32, 32);
+}
+.linha-1{
+    margin-top: -16px;
+    width: 430px;
+    height: 1px;
+    background-color: rgb(32, 32, 32); 
+}
+.pai{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img-16{
+    height: 24px;
+    margin: 5px;
+}

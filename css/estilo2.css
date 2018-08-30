@@ -1,0 +1,159 @@
+
+body{
+    background-color: #c6c6c691;
+}
+.nome h1{
+    font-family: 'Lato', sans-serif;
+    margin-top: -200px;
+}.nome-1{
+    width: 45%;
+    max-width: 450px;
+   border-bottom: solid 2px rgb(29, 29, 29);
+}
+.img-8{
+    position: fixed;
+    top:0;
+    margin-left: -8px;
+}
+.img-11{
+    width: 100%;
+    margin-top: -30px;
+    margin-left: -30px;
+}
+.img-12{
+    width: 100.4%;
+    position: relative;
+    z-index: 10;
+}
+.sociais{
+    position: absolute;
+     right: 0;
+    bottom: 0;
+    z-index: 20;
+    margin-right: 12em;
+    margin-bottom: 2em;
+}
+.sociais img{
+    margin-right: 2em;
+}
+
+.Introducao {  
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    padding: 0 1em;
+}
+.Conhecimentos{
+    font-family: 'Lato', sans-serif;
+}
+.Qualidades{
+    font-family: 'Lato', sans-serif;
+}
+.tudo{
+    margin-top: 10vh
+}
+.Trabalhos{
+    font-family: 'Lato', sans-serif;
+    bottom: 0;
+    margin-top: -6vh;
+    text-align: center;
+}
+
+.img-1-p{
+    margin: 2vh;
+    height: 34vh;
+    width: 52vh;
+}
+.linha-6{
+    margin-top: -20px;
+    width: 180px;
+    height: 1px;
+    background-color: #12049b;
+}
+.linha-1{
+   width: 95%;
+   max-width: 960px;
+  border-bottom: solid 2px rgb(29, 29, 29);
+   
+}
+/* .Introducao h3{
+    text-decoration: underline;
+} */
+.linha-2{
+    margin-top: -20px;
+    margin-left: 0px;
+    width: 100px;
+    height: 0.7px;
+    background-color: rgb(32, 32, 32);
+}
+.linha-3{
+    margin-top: -20px;
+    margin-left: 0px;
+    width: 220px;
+    height: 0.7px;
+    background-color: rgb(32, 32, 32);
+}
+.linha-4{
+    margin-top: -20px;
+    margin-left: 0px;
+    width: 180px;
+    height: 1px;
+    background-color: #12049b;
+}
+.linha-5{
+    margin-top: -20px;
+    margin-left: 0px;
+    width: 180px;
+    height: 1px;
+    background-color:#12049b;
+}
+.linha-7{
+    display: block;
+    margin: auto;
+    margin-top: -18px;
+    width: 180px;
+    height: 1px;
+    background-color:#12049b;
+}
+.imagen {
+    height: 24vh;
+    width: 24vh;
+    border-radius: 50%; 
+    box-shadow: 0px 0px 20px #999;
+    position: absolute;
+    right: 10%;
+    top:2%;
+}
+.coluna{
+    background-color: black;
+    height: 600px;
+    width: 1px;
+}
+.C{
+    margin: 20px;
+}
+.tudo{
+    display: flex;
+}
+.pai{
+    display: flex;
+    align-items: center;
+}
+.i-1{
+    margin-left: 24px;
+}
+.i-2{
+    margin-left: 18px;
+}
+.i-3{
+   margin-left: 66px;
+}
+.i-4{
+    margin-left: 75px;
+}
+.i-5{
+    margin-left: 81px;
+}
+footer{
+    position: relative;
+}
+
